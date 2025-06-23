@@ -1,9 +1,9 @@
 # 🚀 Intelligent Controller Design Using Reinforcement Learning
-## 📚 MCTA 4362 Machine Learning — Mini Project
+### 📚 MCTA 4362 Machine Learning — Mini Project
 Project Title:
 Design of Intelligent Controllers Using Reinforcement Learning for Control Applications
 
-## 🎯  Project Overview
+### 🎯  Project Overview
 This project explores the design and implementation of a Reinforcement Learning (RL)-based controller for a dynamic system, and compares its performance with classical control strategies such as Proportional (P), Proportional-Integral (PI), and Proportional-Integral-Derivative (PID) controllers.
 
 ## 🧠 Motivation
