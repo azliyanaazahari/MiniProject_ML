@@ -9,7 +9,7 @@ This project explores the design and implementation of a Reinforcement Learning 
 ## Motivation
 Classical controllers, while effective in linear systems, struggle with nonlinearity and unpredictable disturbances. RL offers a promising alternative by learning control policies from direct interaction with the environment.
 
-## 👩‍💻 Group Members
+## Group Members
 
 | Name                                  | Matric Number |
 |---------------------------------------|---------------|
