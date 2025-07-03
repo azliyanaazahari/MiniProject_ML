@@ -17,9 +17,3 @@ Classical controllers, while effective in linear systems, struggle with nonlinea
 | Ain Maisara Binti Abdullah            | 2217856       |
 | Adlin Johana Binti Shahrul Nizam      | 2111324       |
 | Amirah Huda binti Jamalulail Asri     | 2210776       |
-## ⚙️ System Description
-### 🔧 Selected Plant
-- description
-### 🎯 Control Objective
-- description
-
